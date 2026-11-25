@@ -1,0 +1,6 @@
+{
+  "name": "À Table — Menus & Courses",
+  "description": "Planifiez vos menus de la semaine, enregistrez vos plats favoris et générez automatiquement votre liste de courses par rayon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
